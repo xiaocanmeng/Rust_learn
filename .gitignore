@@ -1,5 +1,6 @@
 world_hello/target/
 hello_world/target/
 guessing_game/target/
+minigrep/target
 *.lock
 *.toml
